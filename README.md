@@ -8,7 +8,7 @@ You can purchase the CH330N at: https://lcsc.com/product-detail/USB_CH330N_C1089
 
 You will need:
 
-1x CH330N USB transceiver
+1x CH330N USB transceiver<br>
 1x AMS1117 TO-223 3.3V regulator
 1x Molex USB-A through-hole connector
 1x 8-pin 2mm socket for the ESP
