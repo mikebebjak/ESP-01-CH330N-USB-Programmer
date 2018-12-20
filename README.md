@@ -5,7 +5,9 @@ It uses a new CH330N SOIC-8 chip which is very easy to implement in ESP projects
 The repository includes datasheet, drivers, schematics, Eagle board files and gerbers as well as an Eagle library file for the CH330N.
 The drivers used for the CH330N are the same as the CH341.
 You can purchase the CH330N at: https://lcsc.com/product-detail/USB_CH330N_C108996.html 
+
 You will need:
+
 1x CH330N USB transceiver
 1x AMS1117 TO-223 3.3V regulator
 1x Molex USB-A through-hole connector
