@@ -16,5 +16,5 @@ You will need:<br>
 4x 10K 1206 resistors (for pullups and pulldowns)<br>
 2x 0.1uF 1206 capacitors<br>
 1x 6mm through-hole momentary push button for the reset button<br>
-1x large electrolytic capacitor (220uF or higher at 6.3V min.)<br>
+1x large electrolytic capacitor (220uF or higher at 6.3V min.)<br><br>
 GPIO 0 is tied to GND permanently so this programmer cannot be used to boot the ESP (though it may sometimes work anyway).
